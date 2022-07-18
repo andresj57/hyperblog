@@ -1,2 +1,0 @@
-# hyperblog
-el mejor sensacional
